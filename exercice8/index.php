@@ -20,9 +20,9 @@
         $add = 3+4;
         $mult= 5*20;
         $div = 45/5;
-        echo "<p>Résultat de l'addition : $add</p>";
-        echo "<p>Résultat de la multiplication : $mult</p>";
-        echo "<p>Résultat de la division : $div</p>";
+        echo '<p>Résultat de l\'addition : '.$add.'</p>';
+        echo '<p>Résultat de la multiplication : '.$mult.'</p>';
+        echo '<p>Résultat de la division : '.$div.'</p>';
       ?>
   </div>
 </body>

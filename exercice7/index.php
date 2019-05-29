@@ -17,12 +17,12 @@
       <!-- Balise signifiant que la suite est en PHP -->
       <?php
         // Déclaration de plusieurs variables
-        $lastname = "Baguet";
-        $firstname = "Mickael";
+        $lastname = 'Baguet';
+        $firstname = 'Mickael';
         $age = 27;
         // Affichage de la variable
         // Concaténation de variable grace au point (.)
-        echo "Inclinez vous devant ".$lastname." ".$firstname." et ces ".$age." printemps !";
+        echo 'Inclinez vous devant '.$lastname.' '.$firstname.' et ces '.$age.' printemps !';
         // echo "Inclinez vous devant $lastname $firstname et ces $age printemps !";
       ?>
   </div>

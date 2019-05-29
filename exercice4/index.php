@@ -17,7 +17,7 @@
       <!-- Balise signifiant que la suite est en PHP -->
       <?php
       // Déclaration des variables
-      $string = "Chaine de caractères"; //Var type String
+      $string = 'Chaine de caractères'; //Var type String
       $int = 5; //Var type Integer
       $float = 10.3; //Var type Float
       $boolean = true; //Var type Boolean

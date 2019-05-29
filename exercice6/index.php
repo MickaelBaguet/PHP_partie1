@@ -17,8 +17,8 @@
       <!-- Balise signifiant que la suite est en PHP -->
       <?php
       // Déclaration des variables
-      $name = "Machin";
-      echo "<p>Bonjour ".$name. ", comment vas tu ?</p>";
+      $name = 'Machin';
+      echo '<p>Bonjour '.$name. ', comment vas tu ?</p>';
       // echo "<p>Bonjour $name, comment vas tu ?</p>";
     ?>
   </div>

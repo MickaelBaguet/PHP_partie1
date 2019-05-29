@@ -18,9 +18,9 @@
       <?php
       // Déclaration des variables
       $int = null;
-      echo "<p>Valeur variable vide = $int</p>";
+      echo '<p>Valeur variable vide = '.$int.'</p>';
       $int = 5;
-      echo "<p>Valeur variable à 5 = $int</p>";
+      echo '<p>Valeur variable à 5 = '.$int.'</p>';
     ?>
   </div>
 </body>
